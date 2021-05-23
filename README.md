@@ -7,6 +7,6 @@
 - apt-get install python
 - git clone https://github.com/SrTd-Ly/SrTd-SH.git
 - cd SrTd-SH
-- python3 SrTd-SH.py <target>
+- python3 SrTd-SH.py < target >
 
 
