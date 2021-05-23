@@ -5,4 +5,8 @@
 ## Install 
 - apt-get update
 - apt-get install python
-- git clone 
+- git clone https://github.com/SrTd-Ly/SrTd-SH.git
+- cd SrTd-SH
+- python3 SrTd-SH.py <target>
+
+
