@@ -24,7 +24,8 @@ print("""
             ────▀▄▄▀▀▀▀▀▄▄▀▀▀▀▀▀▀▄▄▀▀▀▀▀▄▄▀────────
                  \*/ Coded By Omar M Erbeh \*/
                       [!] Social media [!]
-                    facebook.com/Omar.alajeley.20    
+                      Instagram:@SrTd_Ly
+                      Twitter:@Omar_M_Erbeh
             ░█▀▀▀█ █▀▀█ ▀▀█▀▀ █▀▀▄ ── ░█▀▀▀█  █──█ 
             ─▀▀▀▄▄ █▄▄▀ ─░█── █──█ ▀▀ ─▀▀▀▄▄  █▀▀█ 
             ░█▄▄▄█ ▀─▀▀ ─░█── ▀▀▀─ ── ░█▄▄▄█  ▀──▀ """)
